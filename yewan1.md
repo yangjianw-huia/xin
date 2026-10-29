@@ -85,7 +85,3 @@ nrq.woxine.com
 tha.woxine.com
 
 5lpzcf.woxine.com
-lzy.woxine.com
-nrq.woxine.com
-tha.woxine.com
-5lpzcf.woxine.com
